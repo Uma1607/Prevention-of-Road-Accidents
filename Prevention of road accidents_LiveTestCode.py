@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Download Anaconda based on OS (Windows/MAC/Linux)
 # Anaconda Navigator 
 # Jupyter Notebook
@@ -149,7 +143,7 @@ while True:
             landmarks[38], landmarks[41], landmarks[40], landmarks[39])
         right_blink = blinked(landmarks[42],landmarks[43], 
             landmarks[44], landmarks[47], landmarks[46], landmarks[45])
-        
+  
         
     if(np.argmin(score)==1):
         status ="Yawn"
@@ -209,16 +203,3 @@ while True:
         
 cap.release()
 cv2.destroyAllWindows()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
