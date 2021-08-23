@@ -1,0 +1,23 @@
+Compulsory Hardware:
+Minimum - 8GB RAM
+Working Web Cam
+1 GB free Disk space
+
+TOOLS:
+Anaconda Navigator
+Anaconda Prompt PowerShell
+Jupyter Notebook
+
+PROGRAMMING LANGUAGE:
+Python
+
+TECHNOLOGY:
+Deep Learning:
+Convolutional Nueral Network
+Transfer Learning
+OpenCv
+TensorFlow
+Keras
+Dlib
+
+Note: Apply Data Augmentation to build a Robust Model and also Data will be increased as augmenting creates new data from existing.
