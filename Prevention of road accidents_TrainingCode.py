@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 import cv2
@@ -299,10 +293,3 @@ score
 
 
 np.argmax(score)
-
-
-# In[ ]:
-
-
-
-
