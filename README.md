@@ -12,8 +12,8 @@ The Drowsiness Detector is a deep learning-based system designed to enhance driv
 ## How It Works
 1. Data Capture: The system captures live images of the driver's face using a webcam or external device.
 2. Image Analysis: The captured images are processed by the deep learning model, which excels at analyzing facial features and states.
-3. Detection: The model classifies the driver's eye state and detects yawns.
+3. Detection: The model classifies the drivers eye state and detects yawns.
 4. Alert Generation: If drowsiness or fatigue is detected, the system triggers an automatic alarm to alert the driver.
 
 ## Performance
-1. The accuracy of the drowsiness detection system has improved from 76% to 91%, demonstrating significant advancements in model performance and reliability.
+The accuracy of the drowsiness detection system has improved from 76% to 91%, demonstrating significant advancements in model performance and reliability.
