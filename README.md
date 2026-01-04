@@ -30,5 +30,5 @@ Real-time driver safety system using computer vision and deep learning.
 | Overall Accuracy | 76% | **91%** |
 
 ## 🧪 Code
-**Training**: src/Prevention of road accidents_TrainingCode.py 
+**Training**: src/Prevention of road accidents_TrainingCode.py </br>
 **Live Demo**: src/Prevention of road accidents_LiveTestCode.py
